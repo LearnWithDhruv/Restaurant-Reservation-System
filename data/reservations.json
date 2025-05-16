@@ -1,0 +1,22 @@
+[
+    {
+        "restaurant_name": "Restaurant A",
+        "date_time": "2025-05-17 18:00",
+        "party_size": 2
+    },
+    {
+        "restaurant_name": "Restaurant M",
+        "date_time": "2025-05-17 18:00",
+        "party_size": 10
+    },
+    {
+        "restaurant_name": "Restaurant M",
+        "date_time": "2025-05-17 18:00",
+        "party_size": 10
+    },
+    {
+        "restaurant_name": "Restaurant T",
+        "date_time": "2025-05-17 21:00",
+        "party_size": 10
+    }
+]

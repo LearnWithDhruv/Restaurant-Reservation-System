@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Restaurant A",
+        "location": "Downtown",
+        "cuisine": "Italian",
+        "seating_capacity": 20,
+        "available_slots": {
+            "2025-05-17 18:00": 18
+        }
+    },
+    {
+        "name": "Restaurant B",
+        "location": "Midtown",
+        "cuisine": "Japanese",
+        "seating_capacity": 40,
+        "available_slots": {
+            "2025-05-17 18:00": 40
+        }
+    },
+    {
+        "name": "Restaurant C",
+        "location": "Uptown",
+        "cuisine": "Mexican",
+        "seating_capacity": 60,
+        "available_slots": {
+            "2025-05-17 18:00": 60
+        }
+    },
+    {
+        "name": "Restaurant D",
+        "location": "Eastside",
+        "cuisine": "Chinese",
+        "seating_capacity": 20,
+        "available_slots": {
+            "2025-05-17 18:00": 20
+        }
+    },
+    {
+        "name": "Restaurant E",
+        "location": "Westside",
+        "cuisine": "Indian",
+        "seating_capacity": 40,
+        "available_slots": {
+            "2025-05-17 18:00": 40
+        }
+    },
+    {
+        "name": "Restaurant F",
+        "location": "Downtown",
+        "cuisine": "Italian",
+        "seating_capacity": 60,
+        "available_slots": {
+            "2025-05-17 18:00": 60
+        }
+    },
+    {
+        "name": "Restaurant G",
+        "location": "Midtown",
+        "cuisine": "Japanese",
+        "seating_capacity": 20,
+        "available_slots": {
+            "2025-05-17 18:00": 20
+        }
+    },
+    {
+        "name": "Restaurant H",
+        "location": "Uptown",
+        "cuisine": "Mexican",
+        "seating_capacity": 40,
+        "available_slots": {
+            "2025-05-17 18:00": 40
+        }
+    },
+    {
+        "name": "Restaurant I",
+        "location": "Eastside",
+        "cuisine": "Chinese",
+        "seating_capacity": 60,
+        "available_slots": {
+            "2025-05-17 18:00": 60
+        }
+    },
+    {
+        "name": "Restaurant J",
+        "location": "Westside",
+        "cuisine": "Indian",
+        "seating_capacity": 20,
+        "available_slots": {
+            "2025-05-17 18:00": 20
+        }
+    },
+    {
+        "name": "Restaurant K",
+        "location": "Downtown",
+        "cuisine": "Italian",
+        "seating_capacity": 40,
+        "available_slots": {
+            "2025-05-17 18:00": 40
+        }
+    },
+    {
+        "name": "Restaurant L",
+        "location": "Midtown",
+        "cuisine": "Japanese",
+        "seating_capacity": 60,
+        "available_slots": {
+            "2025-05-17 18:00": 60
+        }
+    },
+    {
+        "name": "Restaurant M",
+        "location": "Uptown",
+        "cuisine": "Mexican",
+        "seating_capacity": 20,
+        "available_slots": {
+            "2025-05-17 18:00": 0
+        }
+    },
+    {
+        "name": "Restaurant N",
+        "location": "Eastside",
+        "cuisine": "Chinese",
+        "seating_capacity": 40,
+        "available_slots": {
+            "2025-05-17 18:00": 40
+        }
+    },
+    {
+        "name": "Restaurant O",
+        "location": "Westside",
+        "cuisine": "Indian",
+        "seating_capacity": 60,
+        "available_slots": {
+            "2025-05-17 18:00": 60
+        }
+    },
+    {
+        "name": "Restaurant P",
+        "location": "Downtown",
+        "cuisine": "Italian",
+        "seating_capacity": 20,
+        "available_slots": {
+            "2025-05-17 18:00": 20
+        }
+    },
+    {
+        "name": "Restaurant Q",
+        "location": "Midtown",
+        "cuisine": "Japanese",
+        "seating_capacity": 40,
+        "available_slots": {
+            "2025-05-17 18:00": 40
+        }
+    },
+    {
+        "name": "Restaurant R",
+        "location": "Uptown",
+        "cuisine": "Mexican",
+        "seating_capacity": 60,
+        "available_slots": {
+            "2025-05-17 18:00": 60
+        }
+    },
+    {
+        "name": "Restaurant S",
+        "location": "Eastside",
+        "cuisine": "Chinese",
+        "seating_capacity": 20,
+        "available_slots": {
+            "2025-05-17 18:00": 20
+        }
+    },
+    {
+        "name": "Restaurant T",
+        "location": "Westside",
+        "cuisine": "Indian",
+        "seating_capacity": 40,
+        "available_slots": {
+            "2025-05-17 18:00": 40,
+            "2025-05-17 21:00": 30
+        }
+    }
+]
